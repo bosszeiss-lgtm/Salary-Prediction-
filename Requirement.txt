@@ -1,6 +1,0 @@
-stearmlit
-pandas
-numpy
-scikit-learn
-joblib
-xgboost
